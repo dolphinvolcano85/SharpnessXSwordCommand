@@ -1,0 +1,8 @@
+name: SharpnessXSwordCMD
+main: com.nublux.sharpnessxSword.Sword
+version: 1.0
+api-version: 1.16
+commands:
+  sword:
+    description: Give yourself a kewlios sword
+ 
